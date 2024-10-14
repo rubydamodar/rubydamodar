@@ -1,3 +1,6 @@
+![Profile Views](https://profile-counter.glitch.me/rubydamodar/count.svg)
+
+
 <div align="center">
   <table>
     <tr>
