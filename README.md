@@ -1,4 +1,4 @@
-![Profile Cover](https://static.vecteezy.com/system/resources/thumbnails/047/493/909/small/hairy-fluffy-cat-playing-png.png)
+![Profile Cover](https://i.gifer.com/origin/05/053d55c4916fc1533779a69207b7bcf4_w200.gif)
 ![Profile Views](https://profile-counter.glitch.me/rubydamodar/count.svg)
 
 
