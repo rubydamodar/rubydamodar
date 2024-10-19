@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/50/1d/36/501d36b98f67a473df1eaa2b4597bbe0.jpg" alt="Profile Cover" width="300" height="300">
+<img src="https://i.pinimg.com/564x/5d/4c/40/5d4c4084d39416057c760efaca53509b.jpg" alt="Profile Cover" width="200" height="200">
 
 ![Profile Views](https://profile-counter.glitch.me/rubydamodar/count.svg)
 
