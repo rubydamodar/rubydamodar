@@ -1,4 +1,4 @@
-![Profile Cover](https://i.gifer.com/origin/05/053d55c4916fc1533779a69207b7bcf4_w200.gif)
+![Profile Cover](https://img1.picmix.com/output/stamp/normal/0/8/6/6/1606680_17c93.gif)
 ![Profile Views](https://profile-counter.glitch.me/rubydamodar/count.svg)
 
 
