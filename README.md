@@ -1,4 +1,3 @@
-
 ![Profile Cover](https://res.cloudinary.com/daily-now/image/upload/s--JO9anIRC--/f_auto/v1729172073/covers/cover_to8YXRlqUK9WDd3kNrL8b)
 ![Profile Views](https://profile-counter.glitch.me/rubydamodar/count.svg)
 
