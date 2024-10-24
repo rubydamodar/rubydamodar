@@ -3,7 +3,6 @@
   <img src="https://i.pinimg.com/564x/5d/4c/40/5d4c4084d39416057c760efaca53509b.jpg" alt="Profile Cover" width="200" height="200">
 </div>
 
-
 ![Profile Views](https://profile-counter.glitch.me/rubydamodar/count.svg)
 
 
