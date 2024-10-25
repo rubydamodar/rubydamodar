@@ -1,5 +1,5 @@
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rubydamodar&theme=light&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rubydamodar&theme=light&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
