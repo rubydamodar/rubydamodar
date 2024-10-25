@@ -1,5 +1,5 @@
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rubydamodar&theme=light&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=rubydamodar&theme=light&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=0&border=0&title=Light)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
