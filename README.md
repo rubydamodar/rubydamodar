@@ -1,4 +1,8 @@
-https://github-profile-trophy.vercel.app/?username=rubydamodar
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rubydamodar&theme=light&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://i.pinimg.com/originals/56/32/c3/5632c3b2fc5ba2b3d457ab6b0ad349de.gif" alt="Left Image" width="500" height=250">
