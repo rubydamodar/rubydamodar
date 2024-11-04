@@ -7,7 +7,7 @@
 
  style=iflex; jontent: space-between;">
   < src="hi.pinimg.com/originals/56/32/c3/5632c3b2fc5ba2b3d457ab6b0ad349de.gif" alt="Left ge" width="500" height=250">
-  <img ="htt//i.pinimg.com/564x/5d/4c/40/5d4c4084d39416057c760efaca53509b.jpg" alt="Profile Cover" width="200" h
+  <img ="htt//i.pinimg.com/564x/5d/4c/40/5d4c4084d39416057c760efaca53509b.jpg" alt="Profile Cover" 
 
 ![Profile Views](https://profile-counter.glitch.me/rubydamodar/count.svg)
 
