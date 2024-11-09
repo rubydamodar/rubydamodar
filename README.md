@@ -1,3 +1,10 @@
+<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="50%" fill="black" font-size="40" text-anchor="middle" dy=".3em">
+    <animate attributeName="x" from="-500" to="500" dur="5s" repeatCount="indefinite" />
+    Your Animated Text
+  </text>
+</svg>
+
 ![Profile Views](https://profile-counter.glitch.me/rubydamodar/count.svg)
 
 <div align="center">
