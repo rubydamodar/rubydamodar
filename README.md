@@ -1,14 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&pause=1000&width=435&lines=I+am+a+passionate+data+scientist;with+expertise+in+statistical+modeling%2C+machine+learning%2C+and+AI%2C;focusing+on+Python+and+computer+vision.;Sphinx+of+black+quartz%2C+judge+my+vow;I+continuously+explore+innovative+projects+and+tools+like+OpenCV%2C+Mediapipe%2C+and+DeepFace%2C+enhancing+my+skills.+;My+GitHub+showcases+my+journey+of+learning+and+growth+;+through+interactive+data+science+and+ML+projects.&color=ff69b4&backgroundColor=000000&gradient=true)](https://git.io/typing-svg)
-
-
-
-
-
-
-
-
-
-
 ![Profile Views](https://profile-counter.glitch.me/rubydamodar/count.svg)
 
 <div align="center">
