@@ -1,3 +1,6 @@
+![image](https://i.pinimg.com/originals/5e/1a/4f/5e1a4fdcd4f2dd410dbd29328f3f2005.gif)
+
+
 ![Profile Views](https://profile-counter.glitch.me/rubydamodar/count.svg)
 
 <div align="center">
