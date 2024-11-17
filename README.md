@@ -16,3 +16,6 @@
   </table>
 </div>
 
+| [![Instagram](https://iili.io/H6762Uu.png)](https://www.instagram.com/ruby.snorlax/) | [![LinkedIn](https://static.vecteezy.com/system/resources/previews/022/498/447/non_2x/3d-linkedin-logo-icon-isolated-on-transparent-background-free-png.png)](https://www.linkedin.com/in/ruby-717848332) | [![Twitter](https://cdn3d.iconscout.com/3d/free/thumb/free-twitter-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-app-social-media-pack-logos-icons-5753430.png?f=webp)](https://x.com/poetrybyruby) | [![Gmail](https://cdn3d.iconscout.com/3d/free/thumb/free-gmail-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-social-media-pack-logos-icons-7250524.png)](mailto:your_email@gmail.com) |
+|---|---|---|---|
+
