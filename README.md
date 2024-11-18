@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/354ca5f2-576d-422b-8c6e-f8e2fa566121)
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubydamodar&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rubydamodar&theme=chartreuse_dark&utcOffset=8) |
 |---|---|
