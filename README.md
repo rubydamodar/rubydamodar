@@ -24,7 +24,8 @@
 
 <div style="flex: 1; padding-left: 10px;">
 
-### 🔧 **Tools and Version Control**
+![image](https://github.com/user-attachments/assets/92de3845-f7f3-470a-93d8-79094b299b54)
+
 
 | **Category**               | **Tools**                                                                 |
 |----------------------------|---------------------------------------------------------------------------|
