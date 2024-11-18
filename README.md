@@ -1,3 +1,23 @@
+## 👨‍💻 About Me
+
+### 🧑‍🔬 **Ruby Poddar**  
+#### Data Science Enthusiast  
+
+I am a dedicated and passionate **Data Scientist** with a focus on applying advanced statistical modeling, machine learning, and data-driven insights to transform complex data into actionable solutions. My expertise spans the entire data science lifecycle, from **exploratory analysis** to **model development**, followed by **evaluation** and **visualization**.
+
+---
+
+Continuously navigating the dynamic frontier of **Data Science**, I actively engage in innovative projects that challenge the limits of what is possible. I thrive on solving complex problems, uncovering hidden patterns in data, and creating solutions that drive impactful results. I am always eager to learn, grow, and contribute to the ever-evolving world of technology.
+
+🚀 **My Mission:**  
+To leverage my expertise to empower businesses and organizations to make smarter, data-driven decisions and unlock the potential of their data.
+
+🔍 **My Focus Areas:**  
+- Statistical Modeling & Machine Learning  
+- Data Visualization & Insights  
+- Predictive Analytics  
+- Time Series Forecasting  
+- Deep Learning & Natural Language Processing (NLP)  
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
 <div style="flex: 1; padding-right: 10px;">
