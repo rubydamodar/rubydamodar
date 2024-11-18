@@ -1,3 +1,21 @@
+## 🛠️ Skills 
+
+| **Category**              | **Skills & Libraries**                                                                                  |
+|---------------------------|-------------------------------------------------------------------------------------------------------|
+| **Programming**           | Python, NumPy, Pandas, SciPy, Matplotlib, Seaborn                                                    |
+| **Machine Learning**       | Scikit-learn, XGBoost, LightGBM, CatBoost, H2O.ai                                                   |
+| **Deep Learning**          | TensorFlow, Keras, PyTorch, Hugging Face Transformers                                               |
+| **Data Visualization**     | Matplotlib, Seaborn, Plotly, Dash, Bokeh                                                            |
+| **Natural Language Processing** | NLTK, SpaCy, TextBlob, Gensim, Transformers                                                     |
+| **Image Processing**       | OpenCV, Scikit-Image, Pillow, MediaPipe                                                            |
+| **Data Cleaning & Wrangling** | Pandas Profiling, Missingno, Pyjanitor                                                          |
+| **Big Data**               | PySpark, Dask, Hadoop, Vaex                                                                        |
+| **Time Series Analysis**   | Statsmodels, Prophet, Tslearn                                                                      |
+| **Web Development**        | Flask, FastAPI, Dash                                                                               |
+| **Web Scraping**           | BeautifulSoup, Scrapy, Requests                                                                    |
+| **Explainable AI**         | ELI5, SHAP, LIME                                                                                   |
+| **GPU Acceleration**       | CuPy, RAPIDS                                                                                       |
+| **Statistical Modeling**   | Statsmodels, Hypothesis Testing, Bayesian Analysis                                                 |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubydamodar&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rubydamodar&theme=chartreuse_dark&utcOffset=8) |
 |---|---|
