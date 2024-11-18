@@ -1,6 +1,10 @@
-## 👨‍💻 About Me
+![image](https://github.com/user-attachments/assets/1fe0d3ee-cb19-479b-9e5d-52b23b67e685)
 
-### 🧑‍🔬 **Ruby Poddar**  
+
+
+![image](https://github.com/user-attachments/assets/c6e62e7b-083c-42c5-ae52-8ca72a8caf11)
+
+
 #### Data Science Enthusiast  
 
 I am a dedicated and passionate **Data Scientist** with a focus on applying advanced statistical modeling, machine learning, and data-driven insights to transform complex data into actionable solutions. My expertise spans the entire data science lifecycle, from **exploratory analysis** to **model development**, followed by **evaluation** and **visualization**.
