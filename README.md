@@ -13,10 +13,12 @@ I am a dedicated and passionate **Data Scientist** with a focus on applying adva
 
 Continuously navigating the dynamic frontier of **Data Science**, I actively engage in innovative projects that challenge the limits of what is possible. I thrive on solving complex problems, uncovering hidden patterns in data, and creating solutions that drive impactful results. I am always eager to learn, grow, and contribute to the ever-evolving world of technology.
 
-🚀 **My Mission:**  
+🚀![image](https://github.com/user-attachments/assets/ead99d73-123d-4faf-85de-5b9337c4312e)
+
 To leverage my expertise to empower businesses and organizations to make smarter, data-driven decisions and unlock the potential of their data.
 
-🔍 **My Focus Areas:**  
+🔍 ![image](https://github.com/user-attachments/assets/76da326d-d7e6-4b25-a728-9b81b22b279d)
+ 
 - Statistical Modeling & Machine Learning  
 - Data Visualization & Insights  
 - Predictive Analytics  
