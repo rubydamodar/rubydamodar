@@ -6,7 +6,7 @@
 
 | **Category**              | **Skills & Libraries**                                                                                  |
 |---------------------------|-------------------------------------------------------------------------------------------------------|
-| **Programming**           | Python, NumPy, Pandas, SciPy, Matplotlib, Seaborn                                                    |
+| **Programming**           | Python,SQL, NumPy, Pandas, SciPy, Matplotlib, Seaborn                                                    |
 | **Machine Learning**       | Scikit-learn, XGBoost, LightGBM,                                                 |
 | **Deep Learning**          | TensorFlow, Keras, PyTorch, Hugging Face Transformers                                               |
 | **Data Visualization**     | Matplotlib, Seaborn, Plotly                                                           |
