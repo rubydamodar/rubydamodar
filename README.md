@@ -1,4 +1,8 @@
-## 🛠️ Skills 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+<div style="flex: 1; padding-right: 10px;">
+
+### 🛠️ **Skills**
 
 | **Category**              | **Skills & Libraries**                                                                                  |
 |---------------------------|-------------------------------------------------------------------------------------------------------|
@@ -16,6 +20,31 @@
 | **Explainable AI**         | ELI5, SHAP, LIME                                                                                   |
 | **GPU Acceleration**       | CuPy, RAPIDS                                                                                       |
 | **Statistical Modeling**   | Statsmodels, Hypothesis Testing, Bayesian Analysis                                                 |
+
+</div>
+
+<div style="flex: 1; padding-left: 10px;">
+
+### 🔧 **Tools and Version Control**
+
+| **Category**               | **Tools**                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **APIs and Web Scraping**   | 🚀 **Postman**, 🌐 **BeautifulSoup**, 🕷️ **Scrapy**, 🖱️ **Selenium**       |
+| **Database Tools**          | 💾 **MySQL**, 🗂️ **MongoDB**, 🏢 **Snowflake**                            |
+| **ETL Tools**               | 🔗 **Apache Nifi**, ⚙️ **Airflow**, 🛠️ **Pentaho**                        |
+| **Data Cleaning**           | 🧹 **OpenRefine**, 🔄 **Talend**, 📋 **Trifacta**                         |
+| **Statistical Tools**       | 📊 **RStudio**, 📈 **SAS**, 🔢 **MATLAB**                                 |
+| **Spreadsheets**            | 💡 **Microsoft Excel**, 🧮 **Google Sheets**                              |
+| **AutoML Platforms**        | 🤖 **H2O.ai**, 🌐 **Google AutoML**, 🛡️ **DataRobot**                     |
+| **Deep Learning Tools**     | 🧠 **TensorFlow**, 🔥 **PyTorch**, 🏗️ **Keras**                          |
+| **Data Visualization**      | 📉 **Matplotlib**, 📊 **Seaborn**, 🔎 **Tableau**                         |
+| **Big Data Frameworks**     | 🗃️ **Apache Spark**, 🌩️ **Hadoop**, ⚡ **Flink**                         |
+| **Version Control Systems** | 🛠️ **Git**, 🔀 **Mercurial**, 🌲 **Subversion (SVN)**                     |
+| **GUI Tools for Git**       | 💻 **GitHub Desktop**, 🪟 **TortoiseGit**, 🦑 **GitKraken**                |
+| **Best Practices**          | 🌱 **Git Flow**, 📜 **Descriptive Commits**, 🗂️ **.gitignore**            |
+
+</div>
+</div>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubydamodar&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rubydamodar&theme=chartreuse_dark&utcOffset=8) |
 |---|---|
