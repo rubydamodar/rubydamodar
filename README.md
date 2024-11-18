@@ -7,15 +7,14 @@
 | **Category**              | **Skills & Libraries**                                                                                  |
 |---------------------------|-------------------------------------------------------------------------------------------------------|
 | **Programming**           | Python, NumPy, Pandas, SciPy, Matplotlib, Seaborn                                                    |
-| **Machine Learning**       | Scikit-learn, XGBoost, LightGBM, CatBoost, H2O.ai                                                   |
+| **Machine Learning**       | Scikit-learn, XGBoost, LightGBM,                                                 |
 | **Deep Learning**          | TensorFlow, Keras, PyTorch, Hugging Face Transformers                                               |
-| **Data Visualization**     | Matplotlib, Seaborn, Plotly, Dash, Bokeh                                                            |
-| **Natural Language Processing** | NLTK, SpaCy, TextBlob, Gensim, Transformers                                                     |
+| **Data Visualization**     | Matplotlib, Seaborn, Plotly                                                           |
+| **Natural Language Processing** | NLTK, SpaCy, TextBlob                                                    |
 | **Image Processing**       | OpenCV, Scikit-Image, Pillow, MediaPipe                                                            |
 | **Data Cleaning & Wrangling** | Pandas Profiling, Missingno, Pyjanitor                                                          |
-| **Big Data**               | PySpark, Dask, Hadoop, Vaex                                                                        |
-| **Time Series Analysis**   | Statsmodels, Prophet, Tslearn                                                                      |
-| **Web Development**        | Flask, FastAPI, Dash                                                                               |
+| **Big Data**               | PySpark, Dask, Hadoop                                                                      |
+| **Time Series Analysis**   | Statsmodels                                                                    |                                                                              |
 | **Web Scraping**           | BeautifulSoup, Scrapy, Requests                                                                    |
 | **Explainable AI**         | ELI5, SHAP, LIME                                                                                   |
 | **GPU Acceleration**       | CuPy, RAPIDS                                                                                       |
@@ -30,17 +29,17 @@
 | **Category**               | **Tools**                                                                 |
 |----------------------------|---------------------------------------------------------------------------|
 | **APIs and Web Scraping**   | 🚀 **Postman**, 🌐 **BeautifulSoup**, 🕷️ **Scrapy**, 🖱️ **Selenium**       |
-| **Database Tools**          | 💾 **MySQL**, 🗂️ **MongoDB**, 🏢 **Snowflake**                            |
+| **Database Tools**          | 💾 **MySQL**                           |
 | **ETL Tools**               | 🔗 **Apache Nifi**, ⚙️ **Airflow**, 🛠️ **Pentaho**                        |
 | **Data Cleaning**           | 🧹 **OpenRefine**, 🔄 **Talend**, 📋 **Trifacta**                         |
-| **Statistical Tools**       | 📊 **RStudio**, 📈 **SAS**, 🔢 **MATLAB**                                 |
+| **Statistical Tools**       | 📊 **RStudio**                                |
 | **Spreadsheets**            | 💡 **Microsoft Excel**, 🧮 **Google Sheets**                              |
 | **AutoML Platforms**        | 🤖 **H2O.ai**, 🌐 **Google AutoML**, 🛡️ **DataRobot**                     |
 | **Deep Learning Tools**     | 🧠 **TensorFlow**, 🔥 **PyTorch**, 🏗️ **Keras**                          |
-| **Data Visualization**      | 📉 **Matplotlib**, 📊 **Seaborn**, 🔎 **Tableau**                         |
-| **Big Data Frameworks**     | 🗃️ **Apache Spark**, 🌩️ **Hadoop**, ⚡ **Flink**                         |
-| **Version Control Systems** | 🛠️ **Git**, 🔀 **Mercurial**, 🌲 **Subversion (SVN)**                     |
-| **GUI Tools for Git**       | 💻 **GitHub Desktop**, 🪟 **TortoiseGit**, 🦑 **GitKraken**                |
+| **Data Visualization**      | 📉 **Matplotlib**, 📊 **Seaborn**                        |
+| **Big Data Frameworks**     | 🗃️ **Apache Spark**, 🌩️ **Hadoop**                       |
+| **Version Control Systems** | 🛠️ **Git**                     |
+| **GUI Tools for Git**       | 💻 **GitHub Desktop**               |
 | **Best Practices**          | 🌱 **Git Flow**, 📜 **Descriptive Commits**, 🗂️ **.gitignore**            |
 
 </div>
