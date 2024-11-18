@@ -2,7 +2,7 @@
 
 <div style="flex: 1; padding-right: 10px;">
 
-### 🛠️ **Skills**
+![image](https://github.com/user-attachments/assets/e287f08c-4ccf-4562-8ac7-d0ba6ba06f42)
 
 | **Category**              | **Skills & Libraries**                                                                                  |
 |---------------------------|-------------------------------------------------------------------------------------------------------|
