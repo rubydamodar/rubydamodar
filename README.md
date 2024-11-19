@@ -108,7 +108,15 @@ To leverage my expertise to empower businesses and organizations to make smarter
     <td><img src="https://textblob.readthedocs.io/en/dev/_static/textblob-logo.png" width="50" height="50" /></td>
   </tr>
 </table>
-
+<table>
+  <tr>
+    <td><img src="https://static-00.iconduck.com/assets.00/opencv-icon-1657x2048-3wu3ib6x.png" width="50" height="50" /></td>
+    <td><img src="https://viz.mediapipe.dev/logo.png" width="50" height="50" /></td>
+    <td><img src="https://static.vecteezy.com/system/resources/previews/009/384/309/non_2x/face-verification-unlock-clipart-design-illustration-free-png.png" width="50" height="50" /></td>
+    <td><img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-speech-recognition-color-icon-png-image_5254019.png" width="50" height="50" /></td>
+    <td><img src="https://python-pillow.org/assets/images/pillow-logo-248x250.png" width="50" height="50" /></td>
+  </tr>
+</table>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubydamodar&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rubydamodar&theme=chartreuse_dark&utcOffset=8) |
 |---|---|
