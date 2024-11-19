@@ -1,4 +1,4 @@
-![image](https://i.pinimg.com/originals/57/06/f6/5706f64a52a9409137084f2dc44d11dd.gif)
+![image](https://i.pinimg.com/originals/17/1b/75/171b7573ee117bfb4ab616daf54f8cf5.gif)
 
 
 ![image](https://github.com/user-attachments/assets/c6e62e7b-083c-42c5-ae52-8ca72a8caf11)
