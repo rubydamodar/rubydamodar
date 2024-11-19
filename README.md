@@ -84,6 +84,13 @@ To leverage my expertise to empower businesses and organizations to make smarter
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td><img src="https://iconape.com/wp-content/png_logo_vector/scikit-learn-logo.png" width="80" height="80" /></td>
+    <td><img src="https://miro.medium.com/v2/resize:fit:720/0*2LQ7VkdK9d2WaPVJ.png" width="80" height="80" /></td>
+    <td><img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="80" height="80" /></td>
+  </tr>
+</table>
 
 
 
