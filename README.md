@@ -91,7 +91,14 @@ To leverage my expertise to empower businesses and organizations to make smarter
     <td><img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="80" height="80" /></td>
   </tr>
 </table>
-
+<table>
+  <tr>
+    <td><img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/tensorflow_logo.png" width="50" height="50" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" width="50" height="50" /></td>
+    <td><img src="https://www.pngkey.com/png/full/380-3800394_pytorch-logo.png" width="50" height="50" /></td>
+    <td><img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" width="50" height="50" /></td>
+  </tr>
+</table>
 
 
 
