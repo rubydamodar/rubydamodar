@@ -72,6 +72,22 @@ To leverage my expertise to empower businesses and organizations to make smarter
 </div>
 </div>
 
+
+<table>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50" height="50" /></td>
+    <td><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-part-azure-sql-database-with-azure-active-directory-17.png" width="55" height="50" /></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50" height="50" /></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="50" height="50" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created-with-Matplotlib-logo.svg.png" width="50" height="50" /></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="50" height="50" /></td>
+  </tr>
+</table>
+
+
+
+
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubydamodar&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rubydamodar&theme=chartreuse_dark&utcOffset=8) |
 |---|---|
 
