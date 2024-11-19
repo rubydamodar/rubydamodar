@@ -30,21 +30,21 @@ To leverage my expertise to empower businesses and organizations to make smarter
 
 ![image](https://github.com/user-attachments/assets/e287f08c-4ccf-4562-8ac7-d0ba6ba06f42)
 
-| **Category**              | **Skills & Libraries**                                                                                  |
+| **🚀 Category**              | **💻 Skills & Libraries**                                                                                  |
 |---------------------------|-------------------------------------------------------------------------------------------------------|
-| **Programming**           | Python,SQL, NumPy, Pandas, SciPy, Matplotlib, Seaborn                                                    |
-| **Machine Learning**       | Scikit-learn, XGBoost, LightGBM,                                                 |
-| **Deep Learning**          | TensorFlow, Keras, PyTorch, Hugging Face Transformers                                               |
-| **Data Visualization**     | Matplotlib, Seaborn, Plotly                                                           |
-| **Natural Language Processing** | NLTK, SpaCy, TextBlob                                                    |
-| **Image Processing**       | OpenCV, Scikit-Image, Pillow, MediaPipe                                                            |
-| **Data Cleaning & Wrangling** | Pandas Profiling, Missingno, Pyjanitor                                                          |
-| **Big Data**               | PySpark, Dask, Hadoop                                                                      |
-| **Time Series Analysis**   | Statsmodels                                                                    |                                                                              |
-| **Web Scraping**           | BeautifulSoup, Scrapy, Requests                                                                    |
-| **Explainable AI**         | ELI5, SHAP, LIME                                                                                   |
-| **GPU Acceleration**       | CuPy, RAPIDS                                                                                       |
-| **Statistical Modeling**   | Statsmodels, Hypothesis Testing, Bayesian Analysis                                                 |
+| **🖥️ Programming**           | Python, SQL, NumPy, Pandas, SciPy, Matplotlib, Seaborn                                                    |
+| **🤖 Machine Learning**       | Scikit-learn, XGBoost, LightGBM                                                 |
+| **🧠 Deep Learning**          | TensorFlow, Keras, PyTorch, Hugging Face Transformers                                               |
+| **📊 Data Visualization**     | Matplotlib, Seaborn, Plotly                                                           |
+| **🔡 Natural Language Processing** | NLTK, SpaCy, TextBlob                                                    |
+| **🖼️ Image Processing**       | OpenCV, Scikit-Image, Pillow, MediaPipe                                                            |
+| **🧹 Data Cleaning & Wrangling** | Pandas Profiling, Missingno, Pyjanitor                                                          |
+| **📂 Big Data**               | PySpark, Dask, Hadoop                                                                      |
+| **📈 Time Series Analysis**   | Statsmodels                                                                    |                                                                              |
+| **🌐 Web Scraping**           | BeautifulSoup, Scrapy, Requests                                                                    |
+| **🤔 Explainable AI**         | ELI5, SHAP, LIME                                                                                   |
+| **⚡ GPU Acceleration**       | CuPy, RAPIDS                                                                                       |
+| **📐 Statistical Modeling**   | Statsmodels, Hypothesis Testing, Bayesian Analysis                                                 |
 
 </div>
 
