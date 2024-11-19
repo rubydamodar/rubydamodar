@@ -117,6 +117,15 @@ To leverage my expertise to empower businesses and organizations to make smarter
     <td><img src="https://python-pillow.org/assets/images/pillow-logo-248x250.png" width="50" height="50" /></td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td><img src="https://www.pngkey.com/png/full/343-3434526_missingno-missingno-sprite.png" width="50" height="50" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Spark-logo-192x100px.png" width="50" height="50" /></td>
+    <td><img src="https://numfocus.org/wp-content/uploads/2019/08/Dask-Logo-300x300-1.png" width="50" height="50" /></td>
+    <td><img src="https://media.licdn.com/dms/image/C5612AQFf-x152kHJZQ/article-cover_image-shrink_720_1280/0/1605440888542?e=2147483647&v=beta&t=39tYh27mSjvWlj-z_wLniG1MlhONZo852tduvKpDHio" width="80" height="80" /></td>
+  </tr>
+</table>
+
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubydamodar&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rubydamodar&theme=chartreuse_dark&utcOffset=8) |
 |---|---|
