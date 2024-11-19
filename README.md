@@ -87,6 +87,7 @@ To leverage my expertise to empower businesses and organizations to make smarter
     </tr>
   </table>
 </div>
+![image](https://github.com/user-attachments/assets/6fb55673-a5dc-49f7-ab11-3ddfc1e5aa07)
 
 <table>
   <tr>
