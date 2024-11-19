@@ -103,4 +103,4 @@ To leverage my expertise to empower businesses and organizations to make smarter
     <td><a href="https://wa.link/4yc03p">WhatsApp</a></td>
   </tr>
 </table>
-mailto:rubypoddarr@gmail.com
+
