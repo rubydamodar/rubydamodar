@@ -71,16 +71,12 @@ To leverage my expertise to empower businesses and organizations to make smarter
 
 </div>
 </div>
-
-
 <table>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50" height="50" /></td>
     <td><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-part-azure-sql-database-with-azure-active-directory-17.png" width="55" height="50" /></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50" height="50" /></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="50" height="50" /></td>
-  </tr>
-  <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created-with-Matplotlib-logo.svg.png" width="50" height="50" /></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="50" height="50" /></td>
     <td><img src="https://avatars.githubusercontent.com/u/5997976?v=4" width="50" height="50" /></td>
@@ -91,8 +87,6 @@ To leverage my expertise to empower businesses and organizations to make smarter
     <td><img src="https://miro.medium.com/v2/resize:fit:720/0*2LQ7VkdK9d2WaPVJ.png" width="80" height="80" /></td>
     <td><img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="80" height="80" /></td>
     <td><img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/tensorflow_logo.png" width="50" height="50" /></td>
-  </tr>
-  <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" width="50" height="50" /></td>
     <td><img src="https://www.pngkey.com/png/full/380-3800394_pytorch-logo.png" width="50" height="50" /></td>
     <td><img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" width="50" height="50" /></td>
@@ -103,8 +97,6 @@ To leverage my expertise to empower businesses and organizations to make smarter
     <td><img src="https://textblob.readthedocs.io/en/dev/_static/textblob-logo.png" width="50" height="50" /></td>
     <td><img src="https://static-00.iconduck.com/assets.00/opencv-icon-1657x2048-3wu3ib6x.png" width="50" height="50" /></td>
     <td><img src="https://viz.mediapipe.dev/logo.png" width="50" height="50" /></td>
-  </tr>
-  <tr>
     <td><img src="https://static.vecteezy.com/system/resources/previews/009/384/309/non_2x/face-verification-unlock-clipart-design-illustration-free-png.png" width="50" height="50" /></td>
     <td><img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-speech-recognition-color-icon-png-image_5254019.png" width="50" height="50" /></td>
     <td><img src="https://python-pillow.org/assets/images/pillow-logo-248x250.png" width="50" height="50" /></td>
@@ -115,8 +107,6 @@ To leverage my expertise to empower businesses and organizations to make smarter
     <td><img src="https://numfocus.org/wp-content/uploads/2019/08/Dask-Logo-300x300-1.png" width="50" height="50" /></td>
     <td><img src="https://media.licdn.com/dms/image/C5612AQFf-x152kHJZQ/article-cover_image-shrink_720_1280/0/1605440888542?e=2147483647&v=beta&t=39tYh27mSjvWlj-z_wLniG1MlhONZo852tduvKpDHio" width="80" height="80" /></td>
     <td><img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-dark.svg" width="50" height="50" /></td>
-  </tr>
-  <tr>
     <td><img src="https://brightdata.com/wp-content/uploads/2023/12/beatifulsoup_image.svg" width="50" height="50" /></td>
     <td><img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" width="50" height="50" /></td>
     <td><img src="https://png.pngtree.com/png-vector/20220527/ourmid/pngtree-document-approved-request-icon-png-image_4759169.png" width="50" height="50" /></td>
@@ -127,15 +117,12 @@ To leverage my expertise to empower businesses and organizations to make smarter
     <td><img src="https://lime.data-imaginist.com/reference/figures/logo.png" width="50" height="50" /></td>
     <td><img src="https://numfocus.org/wp-content/uploads/2022/12/CuPy_300x300.png" width="50" height="50" /></td>
     <td><img src="https://pbs.twimg.com/profile_images/1049911508296224770/9R5kP6Ql_400x400.jpg" width="50" height="50" /></td>
-  </tr>
-  <tr>
     <td><img src="https://static.thenounproject.com/png/3061239-200.png" width="50" height="50" /></td>
     <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bIoDvtMT5NHEDaElzA1JBenlgNlXWAz85A&s" width="50" height="50" /></td>
     <td></td>
     <td></td>
   </tr>
 </table>
-
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubydamodar&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rubydamodar&theme=chartreuse_dark&utcOffset=8) |
 |---|---|
