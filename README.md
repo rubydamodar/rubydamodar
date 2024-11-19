@@ -133,6 +133,17 @@ To leverage my expertise to empower businesses and organizations to make smarter
     <td><img src="https://png.pngtree.com/png-vector/20220527/ourmid/pngtree-document-approved-request-icon-png-image_4759169.png" width="50" height="50" /></td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td><img src="https://m.media-amazon.com/images/I/51AZiY-bHdL.png" width="50" height="50" /></td>
+    <td><img src="https://cdn.prod.website-files.com/6108e07db6795265f203a636/61e7c023fc2e226de100b9e2_Shap.png" width="50" height="50" /></td>
+    <td><img src="https://lime.data-imaginist.com/reference/figures/logo.png" width="50" height="50" /></td>
+    <td><img src="https://numfocus.org/wp-content/uploads/2022/12/CuPy_300x300.png" width="50" height="50" /></td>
+    <td><img src="https://pbs.twimg.com/profile_images/1049911508296224770/9R5kP6Ql_400x400.jpg" width="50" height="50" /></td>
+    <td><img src="https://static.thenounproject.com/png/3061239-200.png" width="50" height="50" /></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bIoDvtMT5NHEDaElzA1JBenlgNlXWAz85A&s" width="50" height="50" /></td>
+  </tr>
+</table>
 
 
 
