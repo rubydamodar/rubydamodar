@@ -87,20 +87,13 @@ To leverage my expertise to empower businesses and organizations to make smarter
     </tr>
   </table>
 </div>
+
 <table>
   <tr>
-    <td><img src="https://static.vecteezy.com/system/resources/previews/022/498/171/non_2x/3d-render-instagram-logo-icon-isolated-on-transparent-background-free-png.png" width="50" height="50" /></td>
-    <td><img src="https://ouch-cdn2.icons8.com/8JSM-dkrbumUC_shV5YnVuPKvB7eBdZ5OBjY7_R4i_I/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMjQ3/L2NmOThkOWJmLWRl/NTktNDMzYi1hNjQ1/LTUzYjNkMTczMTU4/My5wbmc.png" width="55" height="55" /></td>
-    <td><img src="https://static.vecteezy.com/system/resources/previews/022/498/367/non_2x/3d-twitter-logo-icon-with-new-notification-isolated-on-transparent-background-free-png.png" width="50" height="50" /></td>
-    <td><img src="https://ouch-cdn2.icons8.com/Q_mKQhLvgHc4CpJslA6YAg1orkPp2LG3W6rdaEQZ1oo/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTYv/MzE3NWFhMzAtMmQw/Yi00MDgyLTlhZWMt/ZWUyZGNlYzQwYmM0/LnBuZw.png" width="50" height="50" /></td>
-    <td><img src="https://ouch-cdn2.icons8.com/1oizdSHZL50V6Q9nrhAoQ1yymCfuay57pGsUUgpdOKo/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTY0/L2U0NTdjYWFlLWMy/MWUtNDU5Yi1iMzcy/LTQ4OWIwM2U5ZDgw/OC5wbmc.png" width="50" height="50" /></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.instagram.com/ruby.snorlax/">Instagram</a></td>
-    <td><a href="https://www.linkedin.com/in/ruby-717848332">LinkedIn</a></td>
-    <td><a href="https://x.com/poetrybyruby">Twitter</a></td>
-    <td><a href="mailto:rubypoddarr@gmail.com">Email</a></td>
-    <td><a href="https://wa.link/4yc03p">WhatsApp</a></td>
+    <td><a href="https://www.instagram.com/ruby.snorlax/"><img src="https://static.vecteezy.com/system/resources/previews/022/498/171/non_2x/3d-render-instagram-logo-icon-isolated-on-transparent-background-free-png.png" width="50" height="50" /></a></td>
+    <td><a href="https://www.linkedin.com/in/ruby-717848332"><img src="https://ouch-cdn2.icons8.com/8JSM-dkrbumUC_shV5YnVuPKvB7eBdZ5OBjY7_R4i_I/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMjQ3/L2NmOThkOWJmLWRl/NTktNDMzYi1hNjQ1/LTUzYjNkMTczMTU4/My5wbmc.png" width="55" height="55" /></a></td>
+    <td><a href="https://x.com/poetrybyruby"><img src="https://static.vecteezy.com/system/resources/previews/022/498/367/non_2x/3d-twitter-logo-icon-with-new-notification-isolated-on-transparent-background-free-png.png" width="50" height="50" /></a></td>
+    <td><a href="mailto:rubypoddarr@gmail.com"><img src="https://ouch-cdn2.icons8.com/Q_mKQhLvgHc4CpJslA6YAg1orkPp2LG3W6rdaEQZ1oo/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTYv/MzE3NWFhMzAtMmQw/Yi00MDgyLTlhZWMt/ZWUyZGNlYzQwYmM0/LnBuZw.png" width="50" height="50" /></a></td>
+    <td><a href="https://wa.link/4yc03p"><img src="https://ouch-cdn2.icons8.com/1oizdSHZL50V6Q9nrhAoQ1yymCfuay57pGsUUgpdOKo/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTY0/L2U0NTdjYWFlLWMy/MWUtNDU5Yi1iMzcy/LTQ4OWIwM2U5ZDgw/OC5wbmc.png" width="50" height="50" /></a></td>
   </tr>
 </table>
-
