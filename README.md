@@ -101,7 +101,13 @@ To leverage my expertise to empower businesses and organizations to make smarter
     <td><img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" width="50" height="50" /></td>
   </tr>
 </table>
-
+<table>
+  <tr>
+    <td><img src="https://cilans.net/wp-content/uploads/2024/02/NLTK.png" width="50" height="50" /></td>
+    <td><img src="https://i.imgur.com/dJQSclW.png" width="50" height="50" /></td>
+    <td><img src="https://textblob.readthedocs.io/en/dev/_static/textblob-logo.png" width="50" height="50" /></td>
+  </tr>
+</table>
 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubydamodar&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rubydamodar&theme=chartreuse_dark&utcOffset=8) |
