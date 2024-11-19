@@ -81,7 +81,8 @@ To leverage my expertise to empower businesses and organizations to make smarter
     <td><img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="50" height="50" /></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created-with-Matplotlib-logo.svg.png" width="50" height="50" /></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="50" height="50" /></td>
-   <td><img src="https://avatars.githubusercontent.com/u/5997976?v=4" width="50" height="50" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/5997976?v=4" width="50" height="50" /></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGnfhZwoeVtV8kGJjOCAyuBBLEWWpC7OFiqQ&s" width="50" height="50" /></td>
   </tr>
 </table>
 
