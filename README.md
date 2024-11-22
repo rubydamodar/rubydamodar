@@ -175,3 +175,16 @@ To leverage my expertise to empower businesses and organizations to make smarter
     <td><a href="https://wa.link/4yc03p"><img src="https://ouch-cdn2.icons8.com/1oizdSHZL50V6Q9nrhAoQ1yymCfuay57pGsUUgpdOKo/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTY0/L2U0NTdjYWFlLWMy/MWUtNDU5Yi1iMzcy/LTQ4OWIwM2U5ZDgw/OC5wbmc.png" width="50" height="50" /></a></td>
   </tr>
 </table>
+
+
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+</div>
