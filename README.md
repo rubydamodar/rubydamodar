@@ -1,3 +1,13 @@
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 150px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 150px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 150px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 150px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 150px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 150px;">
+</div>
+
+
 <div style="display: flex; gap: 0px;">
   <img src="https://i.pinimg.com/originals/a8/09/94/a8099418b2137e113c808fff5df2dc2a.gif" width="80" height="80" />
   <img src="https://i.pinimg.com/originals/31/37/15/313715d080a07d1098ee68a56b761ced.gif" width="80" height="80" />
