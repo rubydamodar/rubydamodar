@@ -1,14 +1,13 @@
-<div style="display: flex; justify-content: center; align-items: center; gap: 0; margin: 0;">
-  <img src="https://media.tenor.com/dOrbj-w5s4wAAAAM/code.gif" width="100" style="margin: 0;">
-  <img src="https://media.tenor.com/dOrbj-w5s4wAAAAM/code.gif" width="100" style="margin: 0;">
-  <img src="https://media.tenor.com/dOrbj-w5s4wAAAAM/code.gif" width="100" style="margin: 0;">
-  <img src="https://media.tenor.com/dOrbj-w5s4wAAAAM/code.gif" width="100" style="margin: 0;">
-  <img src="https://media.tenor.com/dOrbj-w5s4wAAAAM/code.gif" width="100" style="margin: 0;">
-  <img src="https://media.tenor.com/dOrbj-w5s4wAAAAM/code.gif" width="100" style="margin: 0;">
-  <img src="https://media.tenor.com/dOrbj-w5s4wAAAAM/code.gif" width="100" style="margin: 0;">
-  <img src="https://media.tenor.com/dOrbj-w5s4wAAAAM/code.gif" width="100" style="margin: 0;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
 </div>
-
 
 
 <div style="display: flex; gap: 0px;">
