@@ -7,7 +7,6 @@
   <img src="https://media.tenor.com/dOrbj-w5s4wAAAAM/code.gif" width="100" style="margin: 0;">
   <img src="https://media.tenor.com/dOrbj-w5s4wAAAAM/code.gif" width="100" style="margin: 0;">
   <img src="https://media.tenor.com/dOrbj-w5s4wAAAAM/code.gif" width="100" style="margin: 0;">
-  <img src="https://media.tenor.com/dOrbj-w5s4wAAAAM/code.gif" width="100" style="margin: 0;">
 </div>
 
 
