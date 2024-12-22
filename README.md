@@ -188,3 +188,9 @@ To leverage my expertise to empower businesses and organizations to make smarter
   <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
   <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
 </div>
+
+
+
+
+
+
