@@ -24,8 +24,6 @@
   <img src="https://i.pinimg.com/originals/ac/65/8c/ac658c8d007348e91787f8396a111c30.gif" width="80" height="80" />
 </div>
 
-![image](https://github.com/user-attachments/assets/0b380bc8-14b1-4c45-a22e-95127d5adce4)
-![image](https://github.com/user-attachments/assets/863a2f39-c580-42fc-9f52-693fe9f2735c)
 
 
 
@@ -54,6 +52,8 @@ To leverage my expertise to empower businesses and organizations to make smarter
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
 <div style="flex: 1; padding-right: 10px;">
+
+
 
 ![image](https://github.com/user-attachments/assets/e287f08c-4ccf-4562-8ac7-d0ba6ba06f42)
 
@@ -150,6 +150,15 @@ To leverage my expertise to empower businesses and organizations to make smarter
     <td></td>
   </tr>
 </table>
+
+
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/0b380bc8-14b1-4c45-a22e-95127d5adce4" width="300">
+  <img src="https://www.freeiconspng.com/thumbs/check-mark-png/checkmark-png-line-29.png" width="60">
+</div>
+
+![image](https://github.com/user-attachments/assets/7444bd5f-8a9c-44e0-9487-af5eeb2d3734)
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubydamodar&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rubydamodar&theme=chartreuse_dark&utcOffset=8) |
 |---|---|
