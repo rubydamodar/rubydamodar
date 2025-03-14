@@ -207,5 +207,3 @@ To leverage my expertise to empower businesses and organizations to make smarter
 
 
 
-
-
