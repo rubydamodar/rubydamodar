@@ -152,8 +152,6 @@ To leverage my expertise to empower businesses and organizations to make smarter
   </tr>
 </table>
 
-
-
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github.com/user-attachments/assets/0b380bc8-14b1-4c45-a22e-95127d5adce4" width="300">
   <img src="https://www.freeiconspng.com/thumbs/check-mark-png/checkmark-png-line-29.png" width="60">
