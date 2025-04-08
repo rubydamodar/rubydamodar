@@ -24,7 +24,6 @@
   <img src="https://i.pinimg.com/originals/40/f9/c8/40f9c87a59b1bee59feb5a695109737d.gif" width="80" height="80" />
   <img src="https://i.pinimg.com/originals/ac/65/8c/ac658c8d007348e91787f8396a111c30.gif" width="80" height="80" />
 </div>
-
 ### Top GitHub Contributors in India
 
 | Rank | User | Badge |
