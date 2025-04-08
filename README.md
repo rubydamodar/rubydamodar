@@ -25,7 +25,15 @@
   <img src="https://i.pinimg.com/originals/ac/65/8c/ac658c8d007348e91787f8396a111c30.gif" width="80" height="80" />
 </div>
 
+### Top GitHub Contributors in India
 
+| Rank | User | Badge |
+|------|------|-------|
+| 1 | [rubydamodar](https://github.com/rubydamodar) | [![committers.top badge](https://user-badge.committers.top/india/rubydamodar.svg)](https://committers.top/india#rubydamodar) |
+| 2 | [JayantGoel001](https://github.com/JayantGoel001) | [![committers.top badge](https://user-badge.committers.top/india/JayantGoel001.svg)](https://committers.top/india#JayantGoel001) |
+| 3 | [bigint](https://github.com/bigint) | [![committers.top badge](https://user-badge.committers.top/india/bigint.svg)](https://committers.top/india#bigint) |
+| 4 | [instrik](https://github.com/instrik) | [![committers.top badge](https://user-badge.committers.top/india/instrik.svg)](https://committers.top/india#instrik) |
+| 5 | [vinayakkulkarni](https://github.com/vinayakkulkarni) | [![committers.top badge](https://user-badge.committers.top/india/vinayakkulkarni.svg)](https://committers.top/india#vinayakkulkarni) |
 
 
 ![image](https://github.com/user-attachments/assets/c6e62e7b-083c-42c5-ae52-8ca72a8caf11)
